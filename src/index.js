@@ -258,7 +258,7 @@ class Game extends React.Component {
               className="form-select"
               style={{
                 marginBottom: "20px",
-                maxWidth: "200px",
+                maxWidth: "210px",
                 background: "rgba(183, 178, 178, 0.5)",
                 textAlign: "center",
                 fontSize: "1.1em",
